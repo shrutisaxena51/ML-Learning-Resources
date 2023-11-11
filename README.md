@@ -4,6 +4,8 @@
 A list of Learning resouces for machine learning and deep learning. It consists of full learning plan and also have list of research papers, datasets, conference and talk and Projects.
 
 - [Learning Plan](#learningplan)
+     - [Prerequists](#prerequists)
+     -       
 - [Books](#books)
 - [Other Free Courses](#othercourses)
 - [Talks and Tutorials](#talks-and-tutorials)
@@ -23,3 +25,24 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 - <img src="https://img.shields.io/badge/Book-green.svg" alt="377-pages" align="top"> [Pattern Recognition and Machine Learning](https://www.amzn.com/0387310738)
 - <img src="https://img.shields.io/badge/Book-green.svg" alt="377-pages" align="top"> [Python Data Science Handbook: Essential Tools for Working with Data](https://amzn.to/31Vno7J)
 - <img src="https://img.shields.io/badge/Book-green.svg" alt="377-pages" align="top"> [Machine learning by tom mitchell](https://www.amazon.in/Machine-learning-by-tom-mitchell/dp/B07G5VM97M)
+
+## Other Free Courses
+## Talks and Tutorials
+## Benchmarks and Datasets
+## ML-DL Projects
+## Conferences
+## Journals
+## Youtube Channels
+- <img src="https://img.shields.io/badge/Youtube-red.svg" alt="118-pages" align="top"> [StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
+- <img src="https://img.shields.io/badge/Youtube-red.svg" alt="118-pages" align="top"> [deeplearning.ai](https://www.youtube.com/@Deeplearningai)
+- <img src="https://img.shields.io/badge/Youtube-red.svg" alt="118-pages" align="top"> [Google DeepMind](https://www.youtube.com/@Google_DeepMind)
+- <img src="https://img.shields.io/badge/Youtube-red.svg" alt="118-pages" align="top"> [Sentdex](https://www.youtube.com/@sentdex)
+- <img src="https://img.shields.io/badge/Youtube-red.svg" alt="118-pages" align="top"> [Data School](https://www.youtube.com/@dataschool)
+- <img src="https://img.shields.io/badge/Youtube-red.svg" alt="118-pages" align="top"> [Abhishek Thakur](https://www.youtube.com/c/AbhishekThakurAbhi)
+- <img src="https://img.shields.io/badge/Youtube-red.svg" alt="118-pages" align="top"> [Machine Learning with Phil](https://www.youtube.com/c/MachineLearningwithPhil)
+
+## How to Contribute
+send one of the [maintainers](MAINTAINERS) a [pull request](https://github.com/shrutisaxena51/Artificial-Intelligence-in-Compiler-Optimization/pulls).
+
+
+
