@@ -3,9 +3,7 @@
 
 A list of Learning resouces for machine learning and deep learning. It consists of full learning plan and also have list of research papers, datasets, conference and talk and Projects.
 
-- [Learning Plan](#learningplan)
-     - [Prerequists](#prerequists)
-     -       
+- [Learning Plan](#learningplan)  
 - [Books](#books)
 - [Other Free Courses](#othercourses)
 - [Talks and Tutorials](#talks-and-tutorials)
@@ -28,9 +26,39 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 - <img src="https://img.shields.io/badge/Book-green.svg" alt="377-pages" align="top"> [Machine learning by tom mitchell](https://www.amazon.in/Machine-learning-by-tom-mitchell/dp/B07G5VM97M)
 
 ## Other Free Courses
+- <img src="https://img.shields.io/badge/Courses-lightred.svg" alt="118-pages" align="top"> [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) by Andrew NG on Coursera
+- <img src="https://img.shields.io/badge/Courses-lightred.svg" alt="118-pages" align="top"> [Kaggle Courses](https://www.kaggle.com/learn/overview)
+- <img src="https://img.shields.io/badge/Courses-lightred.svg" alt="118-pages" align="top"> [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+- <img src="https://img.shields.io/badge/Courses-lightred.svg" alt="118-pages" align="top"> [Machine Learning Course](https://www.edx.org/course/machine-learning) by EdX
+- <img src="https://img.shields.io/badge/Courses-lightred.svg" alt="118-pages" align="top"> [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning) University of Washington on Coursera
+- <img src="https://img.shields.io/badge/Courses-lightred.svg" alt="118-pages" align="top"> [Introduction to Machine Learning Course](https://www.udacity.com/course/intro-to-machine-learning--ud120) by Udacity
+- <img src="https://img.shields.io/badge/Courses-lightred.svg" alt="118-pages" align="top"> [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python) by IBM
+  
 ## Talks and Tutorials
+- <img src="https://img.shields.io/badge/Talk-lightblue.svg" alt="118-pages" align="top"> [Gradient Dissent - A Machine Learning Podcast by Weights & Biases](https://open.spotify.com/show/7o9r3fFig3MhTJwehXDbXm)
+- <img src="https://img.shields.io/badge/Talk-lightblue.svg" alt="118-pages" align="top"> [This Week in ML & AI Podcast](https://twimlai.com/podcast/twimlai/)
+- <img src="https://img.shields.io/badge/Talk-lightblue.svg" alt="118-pages" align="top"> [Data Skeptic](https://dataskeptic.com/)
+- <img src="https://img.shields.io/badge/Talk-lightblue.svg" alt="118-pages" align="top"> [Linear Digressions](http://lineardigressions.com/)
+- <img src="https://img.shields.io/badge/Talk-lightblue.svg" alt="118-pages" align="top"> [O'Reilly Data Show](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)
+- <img src="https://img.shields.io/badge/Talk-lightblue.svg" alt="118-pages" align="top"> [The Talking Machines](https://www.thetalkingmachines.com/)
+- <img src="https://img.shields.io/badge/Talk-lightblue.svg" alt="118-pages" align="top"> [Practical AI](https://changelog.com/practicalai)
+- <img src="https://img.shields.io/badge/Talk-lightblue.svg" alt="118-pages" align="top"> [Lex Fridman Podcast](https://lexfridman.com/podcast/)
+- <img src="https://img.shields.io/badge/Talk-lightblue.svg" alt="118-pages" align="top"> [Talk Python To Me](https://talkpython.fm/)
+
 ## Benchmarks and Datasets
+- <img src="https://img.shields.io/badge/dataset-lightgreen.svg" alt="118-pages" align="top"> [Kaggle Dataset](https://www.kaggle.com/datasets)
+- <img src="https://img.shields.io/badge/dataset-lightgreen.svg" alt="118-pages" align="top"> [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+- <img src="https://img.shields.io/badge/dataset-lightgreen.svg" alt="118-pages" align="top"> [Google Dataset](https://datasetsearch.research.google.com/)
+- <img src="https://img.shields.io/badge/dataset-lightgreen.svg" alt="118-pages" align="top"> [Microsoft Research Open Data](https://msropendata.com/)
+- <img src="https://img.shields.io/badge/dataset-lightgreen.svg" alt="118-pages" align="top"> [VisualData Discovery](https://visualdata.io/discovery)
+- <img src="https://img.shields.io/badge/dataset-lightgreen.svg" alt="118-pages" align="top"> [AWS Registry of Open Data on AWS](https://registry.opendata.aws/)
+- <img src="https://img.shields.io/badge/dataset-lightgreen.svg" alt="118-pages" align="top"> [AwesomeData GitHub](https://github.com/awesomedata/awesome-public-datasets)
+  
 ## ML-DL Projects
+
+- <img src="https://img.shields.io/badge/Projects-blue.svg" alt="118-pages" align="top"> [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+- <img src="https://img.shields.io/badge/Projects-blue.svg" alt="118-pages" align="top"> [Papers with Codes](https://paperswithcode.com/)
+  
 ## Top Github Repositories
 - <img src="https://img.shields.io/badge/Github-yellow.svg" alt="377-pages" align="top"> [ML-For-Beginners by Microsoft](https://github.com/microsoft/ML-For-Beginners)
 - <img src="https://img.shields.io/badge/Github-yellow.svg" alt="377-pages" align="top"> [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
@@ -42,8 +70,9 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 - <img src="https://img.shields.io/badge/Github-yellow.svg" alt="377-pages" align="top"> [Machine Learning cheatsheets](https://github.com/afshinea/stanford-cs-229-machine-learning)
 - <img src="https://img.shields.io/badge/Github-yellow.svg" alt="377-pages" align="top"> [Machine learning Interview](https://github.com/khangich/machine-learning-interview)
 - <img src="https://img.shields.io/badge/Github-yellow.svg" alt="377-pages" align="top"> [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
-## Conferences
-## Journals
+## Conferences and  Journals
+- <img src="https://img.shields.io/badge/Conferences-lightyellow.svg" alt="377-pages" align="top"> [List of ML AI conferences in 2023 and 2024](https://tryolabs.com/blog/machine-learning-deep-learning-conferences)
+- <img src="https://img.shields.io/badge/Journals-lightyellow.svg" alt="377-pages" align="top"> [List of ML AI journals](https://research.com/journals-rankings/computer-science/machine-learning)
 ## Youtube Channels
 - <img src="https://img.shields.io/badge/Youtube-red.svg" alt="118-pages" align="top"> [StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
 - <img src="https://img.shields.io/badge/Youtube-red.svg" alt="118-pages" align="top"> [deeplearning.ai](https://www.youtube.com/@Deeplearningai)
