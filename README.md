@@ -3,7 +3,7 @@
 
 A list of Learning resouces for machine learning and deep learning. It consists of full learning plan and also have list of research papers, datasets, conference and talk and Projects.
 
-- [Learning Plan](#learningplan)  
+- [Learning Plan](#learning-plan)  
 - [Books](#books)
 - [Other Free Courses](#othercourses)
 - [Talks and Tutorials](#talks-and-tutorials)
@@ -15,7 +15,21 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 - [Youtube Channels](#channels)
 - [How to Contribute](#how-to-contribute)
 
-- ## Books
+## Learning Plan
+
+| Categories                     | Modules                                               |
+|--------------------------------|-------------------------------------------------------|
+|Data Science Tool Kit |[Introduction to Python](#1-intoriduction-to-python)<br>[2. Python for Data Science](#2.python-for-data-science)<br>[3. Visualization in Python](#3-visulaization-in-pyton)<br>[4.Maths for Machine Learning](#4-maths-for-machine-learning)<br>[5.SQL](#5-SQL)<br>[6.Data Analysis in Excel](#6-data-analysis-in-excel)|
+| Introduction to ML 🌟           | [Introduction to Machine Learning](#1-introduction-to-machine-learning)<br>[Types of Machine Learning](#2-types-of-machine-learning)<br>[Applications of ML](#3-applications-of-machine-learning)<br>[Machine Learning Process](#4-machine-learning-process) |
+| Data Preprocessing 📊           | [Data Collection and Cleaning](#5-data-collection-and-cleaning)<br>[Data Transformation](#6-data-transformation)<br>[Feature Engineering](#7-feature-engineering)<br>[Handling Missing Data](#8-handling-missing-data)<br>[Scaling and Normalization](#9-scaling-and-normalization) |
+| Supervised Learning 🧠          | [Linear Regression](#10-linear-regression)<br>[Logistic Regression](#11-logistic-regression)<br>[Decision Trees](#12-decision-trees)<br>[Support Vector Machines](#13-support-vector-machines)<br>[Ensemble Learning](#14-ensemble-learning) |
+| Unsupervised Learning 🧩        | [Clustering](#15-clustering)<br>[Principal Component Analysis (PCA)](#16-principal-component-analysis-pca)<br>[Anomaly Detection](#17-anomaly-detection) |
+
+## Data Science Tool Kit
+### 1.Introduction to Python
+- book
+- videos
+## Books
 - <img src="https://img.shields.io/badge/Book-green.svg" alt="118-pages" align="top"> [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques for Building Intelligent Systems](https://amzn.to/3iLFiRm)- Aurélien Géron,  O'Reilly Media, Inc.", 2022.
 * <img src="https://img.shields.io/badge/Book-green.svg" alt="377-pages" align="top"> [Data Mining: Practical Machine Learning Tools and Techniques.](https://amzn.to/340LRLA)
 * <img src="https://img.shields.io/badge/Book-green.svg" alt="377-pages" align="top"> [Python Machine Learning](https://amzn.to/3kP4A2M)
