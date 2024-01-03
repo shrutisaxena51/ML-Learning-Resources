@@ -11,6 +11,7 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 - [Talks and Tutorials](#talks-and-tutorials)
 - [Benchmarks and Datasets](#benchmarks-and-datasets)
 - [ML-DL Projects](#software)
+- [Top Github Repositories](#top-github-repositories)
 - [Conferences](#conferences)
 - [Journals](#journals)
 - [Youtube Channels](#channels)
@@ -30,6 +31,17 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 ## Talks and Tutorials
 ## Benchmarks and Datasets
 ## ML-DL Projects
+## Top Github Repositories
+- <img src="https://img.shields.io/badge/Github-yellow.svg" alt="377-pages" align="top"> [ML-For-Beginners by Microsoft](https://github.com/microsoft/ML-For-Beginners)
+- <img src="https://img.shields.io/badge/Github-yellow.svg" alt="377-pages" align="top"> [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+- <img src="https://img.shields.io/badge/Github-yellow.svg" alt="377-pages" align="top"> [Mathematics For Machine Learning](https://github.com/mml-book/mml-book.github.io)
+- <img src="https://img.shields.io/badge/Github-yellow.svg" alt="377-pages" align="top"> [ MIT Deep Learning Book](https://github.com/janishar/mit-deep-learning-book-pdf)
+- <img src="https://img.shields.io/badge/Github-yellow.svg" alt="377-pages" align="top"> [Machine Learning ZoomCamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
+- <img src="https://img.shields.io/badge/Github-yellow.svg" alt="377-pages" align="top"> [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+- <img src="https://img.shields.io/badge/Github-yellow.svg" alt="377-pages" align="top"> [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- <img src="https://img.shields.io/badge/Github-yellow.svg" alt="377-pages" align="top"> [Machine Learning cheatsheets](https://github.com/afshinea/stanford-cs-229-machine-learning)
+- <img src="https://img.shields.io/badge/Github-yellow.svg" alt="377-pages" align="top"> [Machine learning Interview](https://github.com/khangich/machine-learning-interview)
+- <img src="https://img.shields.io/badge/Github-yellow.svg" alt="377-pages" align="top"> [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
 ## Conferences
 ## Journals
 ## Youtube Channels
