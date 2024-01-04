@@ -19,16 +19,169 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 
 | Categories                     | Modules                                               |
 |--------------------------------|-------------------------------------------------------|
-|Data Science Tool Kit |[Introduction to Python](#1-intoriduction-to-python)<br>[2. Python for Data Science](#2.python-for-data-science)<br>[3. Visualization in Python](#3-visulaization-in-pyton)<br>[4.Maths for Machine Learning](#4-maths-for-machine-learning)<br>[5.SQL](#5-SQL)<br>[6.Data Analysis in Excel](#6-data-analysis-in-excel)|
-| Introduction to ML 🌟           | [Introduction to Machine Learning](#1-introduction-to-machine-learning)<br>[Types of Machine Learning](#2-types-of-machine-learning)<br>[Applications of ML](#3-applications-of-machine-learning)<br>[Machine Learning Process](#4-machine-learning-process) |
+| Data Science Tool Kit |[Introduction to Python](#1-intorduction-to-python)<br>[Python for Data Science](#2-python-for-data-science)<br>[Visualization in Python](#3-visulaization-in-python)<br>[4.Maths for Machine Learning](#4-maths-for-machine-learning)<br>[SQL](#5-sql)<br>[6.Data Analysis in Excel](#6-data-analysis-in-excel)|
+|Statistics |[Exploratory Data Analysis](#1-exploratory-data-analysis)<br>[Inferential Statistics](#2-inferential-statistics)<br>[Hypothesis Testing](#3-hypothesis-testing)<br>[EDA Projects](#4-eda-projects)|
+| Introduction to ML 🌟           | [Introduction to Machine Learning](#1-introduction-to-machine-learning)<br>[Types of Machine Learning](#2-types-of-machine-learning)<br>[Applications of ML](#3-applications-of-ml)<br>[Machine Learning Process](#4-machine-learning-process) |
 | Data Preprocessing 📊           | [Data Collection and Cleaning](#5-data-collection-and-cleaning)<br>[Data Transformation](#6-data-transformation)<br>[Feature Engineering](#7-feature-engineering)<br>[Handling Missing Data](#8-handling-missing-data)<br>[Scaling and Normalization](#9-scaling-and-normalization) |
 | Supervised Learning 🧠          | [Linear Regression](#10-linear-regression)<br>[Logistic Regression](#11-logistic-regression)<br>[Decision Trees](#12-decision-trees)<br>[Support Vector Machines](#13-support-vector-machines)<br>[Ensemble Learning](#14-ensemble-learning) |
 | Unsupervised Learning 🧩        | [Clustering](#15-clustering)<br>[Principal Component Analysis (PCA)](#16-principal-component-analysis-pca)<br>[Anomaly Detection](#17-anomaly-detection) |
 
 ## Data Science Tool Kit
-### 1.Introduction to Python
-- book
-- videos
+
+### 1. Intorduction to Python
+- Definition and Concepts
+- Machine Learning vs Traditional Programming
+- Importance and Applications
+
+### 2. Python for Data Science
+- Supervised, Unsupervised, and Semi-Supervised Learning
+- Reinforcement Learning
+- Online Learning
+
+### 3. Visulaization in Python
+- Image and Speech Recognition
+- Natural Language Processing
+- Recommender Systems
+- Fraud Detection
+- Autonomous Vehicles
+
+### 4. Maths for Machine Learning
+- Data Collection and Cleaning
+- Data Preprocessing
+- Feature Selection and Engineering
+- Model Selection and Training
+- Evaluation and Fine-Tuning
+
+### 5. SQL
+
+### 6. Data Analysis in Excel
+---
+
+## Statistics 
+
+### 1. Exploratory Data Analysis
+
+### 2. Inferential Statistics
+
+### 3. Hypothesis Testing
+
+### 4. EDA Projects
+
+## Introduction to ML
+
+### 1. Introduction to Machine Learning
+- Definition and Concepts
+- Machine Learning vs Traditional Programming
+- Importance and Applications
+
+### 2. Types of Machine Learning
+- Supervised, Unsupervised, and Semi-Supervised Learning
+- Reinforcement Learning
+- Online Learning
+
+### 3. Applications of ML
+- Image and Speech Recognition
+- Natural Language Processing
+- Recommender Systems
+- Fraud Detection
+- Autonomous Vehicles
+
+### 4. Machine Learning Process
+- Data Collection and Cleaning
+- Data Preprocessing
+- Feature Selection and Engineering
+- Model Selection and Training
+- Evaluation and Fine-Tuning
+
+---
+## Data Preprocessing
+
+### 5. Data Collection and Cleaning
+- Data Sources and Formats
+- Data Quality Assessment
+- Handling Missing Data
+- Outlier Detection and Removal
+
+### 6. Data Transformation
+- Normalization and Standardization
+- Scaling Techniques
+- Log Transformation
+- Binning and One-Hot Encoding
+
+### 7. Feature Engineering
+- Feature Extraction
+- Feature Selection
+- Dimensionality Reduction
+- Handling Categorical Data
+
+### 8. Handling Missing Data
+- Imputation Techniques
+- Dealing with NaN Values
+- Removing Irrelevant Features
+
+### 9. Scaling and Normalization
+- Min-Max Scaling
+- Z-Score Normalization
+- Robust Scaling
+
+---
+
+## Supervised Learning
+
+### 10. Linear Regression
+- Simple Linear Regression
+- Multiple Linear Regression
+- Assessing Model Fit
+- Handling Nonlinearity
+
+### 11. Logistic Regression
+- Binary Logistic Regression
+- Multinomial Logistic Regression
+- Evaluating Classification Models
+- Regularization Techniques
+
+### 12. Decision Trees
+- Building Decision Trees
+- Pruning and Overfitting
+- Random Forests
+- Feature Importance
+
+### 13. Support Vector Machines
+- Linear SVMs
+- Nonlinear SVMs
+- Kernels and Kernel Trick
+- SVM for Classification and Regression
+
+### 14. Ensemble Learning
+- Bagging and Boosting
+- AdaBoost
+- Gradient Boosting
+- XGBoost
+
+---
+
+## Unsupervised Learning
+
+### 15. Clustering
+- K-Means Clustering
+- Hierarchical Clustering
+- Density-Based Clustering
+- Evaluating Clustering
+
+### 16. Principal Component Analysis (PCA)
+- Dimensionality Reduction
+- Eigenvalues and Eigenvectors
+- Variance Explained Ratio
+- Applications of PCA
+
+### 17. Anomaly Detection
+- Types of Anomalies
+- Approaches to Anomaly Detection
+- Isolation Forest
+- One-Class SVM
+
+---
+
 ## Books
 - <img src="https://img.shields.io/badge/Book-green.svg" alt="118-pages" align="top"> [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques for Building Intelligent Systems](https://amzn.to/3iLFiRm)- Aurélien Géron,  O'Reilly Media, Inc.", 2022.
 * <img src="https://img.shields.io/badge/Book-green.svg" alt="377-pages" align="top"> [Data Mining: Practical Machine Learning Tools and Techniques.](https://amzn.to/340LRLA)
