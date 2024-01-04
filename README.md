@@ -49,11 +49,14 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 - <img src="https://img.shields.io/badge/coursera-darkblue.svg" alt="118-pages" align="top">[SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science)
 
 ### 6. Data Analysis in Excel
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Mastering Data Analysis in Excel](https://www.coursera.org/learn/analytics-excel)
+- https://www.geeksforgeeks.org/data-analysis-in-excel/)
 ---
 
 ## Statistics 
 
 ### 1. Exploratory Data Analysis
+
 
 ### 2. Inferential Statistics
 
