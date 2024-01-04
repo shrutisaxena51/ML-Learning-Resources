@@ -5,38 +5,36 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 
 - [Learning Plan](#learning-plan)  
 - [Books](#books)
-- [Other Free Courses](#othercourses)
+- [Other Free Courses](#other-free-courses)
 - [Talks and Tutorials](#talks-and-tutorials)
 - [Benchmarks and Datasets](#benchmarks-and-datasets)
-- [ML-DL Projects](#software)
+- [ML-DL Projects](#ml-dl-projects)
 - [Top Github Repositories](#top-github-repositories)
-- [Conferences](#conferences)
-- [Journals](#journals)
-- [Youtube Channels](#channels)
+- [Conferences](#conferences-and-journals)
+- [Youtube Channels](#youtube-channels)
 - [How to Contribute](#how-to-contribute)
 
 ## Learning Plan
 
 | Categories                     | Modules                                               |
 |--------------------------------|-------------------------------------------------------|
-| Data Science Tool Kit |[Introduction to Python](#1-intorduction-to-python)<br>[Python for Data Science](#2-python-for-data-science)<br>[Visualization in Python](#3-visulaization-in-python)<br>[4.Maths for Machine Learning](#4-maths-for-machine-learning)<br>[SQL](#5-sql)<br>[6.Data Analysis in Excel](#6-data-analysis-in-excel)|
-|Statistics |[Exploratory Data Analysis](#1-exploratory-data-analysis)<br>[Inferential Statistics](#2-inferential-statistics)<br>[Hypothesis Testing](#3-hypothesis-testing)<br>[EDA Projects](#4-eda-projects)|
-| Introduction to ML 🌟           | [Introduction to Machine Learning](#1-introduction-to-machine-learning)<br>[Types of Machine Learning](#2-types-of-machine-learning)<br>[Applications of ML](#3-applications-of-ml)<br>[Machine Learning Process](#4-machine-learning-process) |
-| Data Preprocessing 📊           | [Data Collection and Cleaning](#5-data-collection-and-cleaning)<br>[Data Transformation](#6-data-transformation)<br>[Feature Engineering](#7-feature-engineering)<br>[Handling Missing Data](#8-handling-missing-data)<br>[Scaling and Normalization](#9-scaling-and-normalization) |
-| Supervised Learning 🧠          | [Linear Regression](#10-linear-regression)<br>[Logistic Regression](#11-logistic-regression)<br>[Decision Trees](#12-decision-trees)<br>[Support Vector Machines](#13-support-vector-machines)<br>[Ensemble Learning](#14-ensemble-learning) |
-| Unsupervised Learning 🧩        | [Clustering](#15-clustering)<br>[Principal Component Analysis (PCA)](#16-principal-component-analysis-pca)<br>[Anomaly Detection](#17-anomaly-detection) |
+| Data Science Tool Kit |[1. Introduction to Python](#1-intorduction-to-python)<br>[2. Python for Data Science](#2-python-for-data-science)<br>[3. Visualization in Python](#3-visulaization-in-python)<br>[4. Maths for Machine Learning](#4-maths-for-machine-learning)<br>[5. SQL](#5-sql)<br>[6. Data Analysis in Excel](#6-data-analysis-in-excel)|
+|Statistics |[1. Exploratory Data Analysis](#1-exploratory-data-analysis)<br>[2. Inferential Statistics](#2-inferential-statistics)<br>[3. Hypothesis Testing](#3-hypothesis-testing)<br>[4. EDA Projects](#4-eda-projects)|
+| Introduction to ML 🌟           | [1. Introduction to Machine Learning](#1-introduction-to-machine-learning)<br>[2. Types of Machine Learning](#2-types-of-machine-learning)<br>[3. Applications of ML](#3-applications-of-ml)<br>[4. Machine Learning Process](#4-machine-learning-process) |
+| Data Preprocessing 📊           | [1. Data Collection and Cleaning](#1-data-collection-and-cleaning)<br>[2. Data Transformation](#2-data-transformation)<br>[3. Feature Engineering](#3-feature-engineering)<br>[4. Handling Missing Data](#4-handling-missing-data)<br>[5. Scaling and Normalization](#5-scaling-and-normalization) |
+| Supervised Learning 🧠          | [1. Linear Regression](#1-linear-regression)<br>[2. Logistic Regression](#2-logistic-regression)<br>[3. Decision Trees](#3-decision-trees)<br>[4. Support Vector Machines](#4-support-vector-machines)<br>[5. Ensemble Learning](#5-ensemble-learning) |
+| Unsupervised Learning 🧩        | [1. Clustering](#1-clustering)<br>[2. Principal Component Analysis (PCA)](#2-principal-component-analysis-pca)<br>[3. Anomaly Detection](#3-anomaly-detection) |
 
 ## Data Science Tool Kit
 
 ### 1. Intorduction to Python
-- Definition and Concepts
-- Machine Learning vs Traditional Programming
-- Importance and Applications
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Learn Python - Full Course for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw)
+- <img src="https://img.shields.io/badge/udemy-purple.svg" alt="118-pages" align="top">[Learn Python Programming Masterclass](https://www.udemy.com/course/python-the-complete-python-developer-course/)
 
 ### 2. Python for Data Science
-- Supervised, Unsupervised, and Semi-Supervised Learning
-- Reinforcement Learning
-- Online Learning
+- <img src="https://img.shields.io/badge/udemy-purple.svg" alt="118-pages" align="top">[Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Python for Data Science - Course for Beginners - duration 12 hours](https://www.youtube.com/watch?v=LHBE6Q9XlzI&t=1s)
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Data Science With Python - duration 1 hour](https://www.youtube.com/watch?v=mkv5mxYu0Wk&t=1s)
 
 ### 3. Visulaization in Python
 - Image and Speech Recognition
@@ -96,30 +94,30 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 ---
 ## Data Preprocessing
 
-### 5. Data Collection and Cleaning
+### 1. Data Collection and Cleaning
 - Data Sources and Formats
 - Data Quality Assessment
 - Handling Missing Data
 - Outlier Detection and Removal
 
-### 6. Data Transformation
+### 2. Data Transformation
 - Normalization and Standardization
 - Scaling Techniques
 - Log Transformation
 - Binning and One-Hot Encoding
 
-### 7. Feature Engineering
+### 3. Feature Engineering
 - Feature Extraction
 - Feature Selection
 - Dimensionality Reduction
 - Handling Categorical Data
 
-### 8. Handling Missing Data
+### 4. Handling Missing Data
 - Imputation Techniques
 - Dealing with NaN Values
 - Removing Irrelevant Features
 
-### 9. Scaling and Normalization
+### 5. Scaling and Normalization
 - Min-Max Scaling
 - Z-Score Normalization
 - Robust Scaling
@@ -128,31 +126,31 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 
 ## Supervised Learning
 
-### 10. Linear Regression
+### 1. Linear Regression
 - Simple Linear Regression
 - Multiple Linear Regression
 - Assessing Model Fit
 - Handling Nonlinearity
 
-### 11. Logistic Regression
+### 2. Logistic Regression
 - Binary Logistic Regression
 - Multinomial Logistic Regression
 - Evaluating Classification Models
 - Regularization Techniques
 
-### 12. Decision Trees
+### 3. Decision Trees
 - Building Decision Trees
 - Pruning and Overfitting
 - Random Forests
 - Feature Importance
 
-### 13. Support Vector Machines
+### 4. Support Vector Machines
 - Linear SVMs
 - Nonlinear SVMs
 - Kernels and Kernel Trick
 - SVM for Classification and Regression
 
-### 14. Ensemble Learning
+### 5. Ensemble Learning
 - Bagging and Boosting
 - AdaBoost
 - Gradient Boosting
@@ -162,19 +160,19 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 
 ## Unsupervised Learning
 
-### 15. Clustering
+### 1. Clustering
 - K-Means Clustering
 - Hierarchical Clustering
 - Density-Based Clustering
 - Evaluating Clustering
 
-### 16. Principal Component Analysis (PCA)
+### 2. Principal Component Analysis (PCA)
 - Dimensionality Reduction
 - Eigenvalues and Eigenvectors
 - Variance Explained Ratio
 - Applications of PCA
 
-### 17. Anomaly Detection
+### 3. Anomaly Detection
 - Types of Anomalies
 - Approaches to Anomaly Detection
 - Isolation Forest
@@ -221,7 +219,7 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 - <img src="https://img.shields.io/badge/dataset-lightgreen.svg" alt="118-pages" align="top"> [AWS Registry of Open Data on AWS](https://registry.opendata.aws/)
 - <img src="https://img.shields.io/badge/dataset-lightgreen.svg" alt="118-pages" align="top"> [AwesomeData GitHub](https://github.com/awesomedata/awesome-public-datasets)
   
-## ML-DL Projects
+## ML DL Projects
 
 - <img src="https://img.shields.io/badge/Projects-blue.svg" alt="118-pages" align="top"> [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 - <img src="https://img.shields.io/badge/Projects-blue.svg" alt="118-pages" align="top"> [Papers with Codes](https://paperswithcode.com/)
@@ -237,7 +235,7 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 - <img src="https://img.shields.io/badge/Github-yellow.svg" alt="377-pages" align="top"> [Machine Learning cheatsheets](https://github.com/afshinea/stanford-cs-229-machine-learning)
 - <img src="https://img.shields.io/badge/Github-yellow.svg" alt="377-pages" align="top"> [Machine learning Interview](https://github.com/khangich/machine-learning-interview)
 - <img src="https://img.shields.io/badge/Github-yellow.svg" alt="377-pages" align="top"> [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
-## Conferences and  Journals
+## Conferences and Journals
 - <img src="https://img.shields.io/badge/Conferences-lightyellow.svg" alt="377-pages" align="top"> [List of ML AI conferences in 2023 and 2024](https://tryolabs.com/blog/machine-learning-deep-learning-conferences)
 - <img src="https://img.shields.io/badge/Journals-lightyellow.svg" alt="377-pages" align="top"> [List of ML AI journals](https://research.com/journals-rankings/computer-science/machine-learning)
 ## Youtube Channels
