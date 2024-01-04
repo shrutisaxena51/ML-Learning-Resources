@@ -70,14 +70,12 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 ## Introduction to ML
 
 ### 1. Introduction to Machine Learning
-- Definition and Concepts
-- Machine Learning vs Traditional Programming
-- Importance and Applications
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Definition and Concepts](https://www.youtube.com/watch?v=BuezNNeOGCI&t=1s)
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Machine Learning vs Traditional Programming](https://www.youtube.com/watch?v=Z3exkejEZkg)
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[ML Applications](https://www.youtube.com/watch?v=UZio8TcTMrI)
 
 ### 2. Types of Machine Learning
-- Supervised, Unsupervised, and Semi-Supervised Learning
-- Reinforcement Learning
-- Online Learning
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Types of Machine learning](https://www.youtube.com/watch?v=xtOg44r6dsE)
 
 ### 3. Applications of ML
 - Image and Speech Recognition
@@ -97,10 +95,10 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 ## Data Preprocessing
 
 ### 1. Data Collection and Cleaning
-- Data Sources and Formats
-- Data Quality Assessment
-- Handling Missing Data
-- Outlier Detection and Removal
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Data Cleaning](https://www.youtube.com/watch?v=lQ_K_DHssxo)
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top"[Data Sources and Formats](https://www.youtube.com/watch?v=63OQqcvA4Bg)
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top"[Handling Missing Data](https://www.youtube.com/watch?v=uDr67HBIPz8)
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top"[Outlier Detection and Removal](https://www.youtube.com/watch?v=rzR_cKnkD18)
 
 ### 2. Data Transformation
 - Normalization and Standardization
@@ -124,6 +122,8 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 - Z-Score Normalization
 - Robust Scaling
 
+### 6. projects
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Data Cleaning](https://www.youtube.com/watch?v=kLDTbavcmd0)
 ---
 
 ## Supervised Learning
