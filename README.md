@@ -1,4 +1,4 @@
-# ML-DL-Learning-Resources
+# ML-Learning-Resources
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/shrutisaxena51)
 
 A list of Learning resouces for machine learning and deep learning. It consists of full learning plan and also have list of research papers, datasets, conference and talk and Projects.
@@ -37,20 +37,16 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 - <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Data Science With Python - duration 1 hour](https://www.youtube.com/watch?v=mkv5mxYu0Wk&t=1s)
 
 ### 3. Visulaization in Python
-- Image and Speech Recognition
-- Natural Language Processing
-- Recommender Systems
-- Fraud Detection
-- Autonomous Vehicles
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Data Visualization | Intellipaat](https://www.youtube.com/watch?v=_YWwU-gJI5U&t=1s)
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Python Data Visualization Projects Examples | Simplilearn](https://www.youtube.com/watch?v=Nt84_TzRkbo&t=2s)
 
 ### 4. Maths for Machine Learning
-- Data Collection and Cleaning
-- Data Preprocessing
-- Feature Selection and Engineering
-- Model Selection and Training
-- Evaluation and Fine-Tuning
+- <img src="https://img.shields.io/badge/coursera-darkblue.svg" alt="118-pages" align="top">[Mathematics for Machine Learning and data Science](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 ### 5. SQL
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[SQL for data Analysis](https://www.youtube.com/watch?v=qERjkjK8UQ8)
+- <img src="https://img.shields.io/badge/coursera-darkblue.svg" alt="118-pages" align="top">[SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science)
 
 ### 6. Data Analysis in Excel
 ---
