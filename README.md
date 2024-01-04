@@ -96,15 +96,16 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 
 ### 1. Data Collection and Cleaning
 - <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Data Cleaning](https://www.youtube.com/watch?v=lQ_K_DHssxo)
-- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top"[Data Sources and Formats](https://www.youtube.com/watch?v=63OQqcvA4Bg)
-- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top"[Handling Missing Data](https://www.youtube.com/watch?v=uDr67HBIPz8)
-- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top"[Outlier Detection and Removal](https://www.youtube.com/watch?v=rzR_cKnkD18)
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Data Sources and Formats](https://www.youtube.com/watch?v=63OQqcvA4Bg)
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Handling Missing Data](https://www.youtube.com/watch?v=uDr67HBIPz8)
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Outlier Detection and Removal](https://www.youtube.com/watch?v=rzR_cKnkD18)
 
 ### 2. Data Transformation
-- Normalization and Standardization
-- Scaling Techniques
-- Log Transformation
-- Binning and One-Hot Encoding
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Data Transformation](https://www.youtube.com/watch?v=3gfhbXt9TcQ)
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Normalization and Standardization and Scaling](https://www.youtube.com/watch?v=mnKm3YP56PY)
+ 
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Log Transformation](https://www.youtube.com/watch?v=lNgSBda0c7s)
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Binning and One-Hot Encoding](https://www.youtube.com/watch?v=9yl6-HEY7_s&pp=ygUcQmlubmluZyBhbmQgT25lLUhvdCBFbmNvZGluZw%3D%3D)
 
 ### 3. Feature Engineering
 - Feature Extraction
@@ -129,10 +130,8 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 ## Supervised Learning
 
 ### 1. Linear Regression
-- Simple Linear Regression
-- Multiple Linear Regression
-- Assessing Model Fit
-- Handling Nonlinearity
+-  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Simple Linear Regression](https://www.youtube.com/watch?v=aEPoLeS6UMM)
+-  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Multiple inear Regression](https://www.youtube.com/watch?v=e_9vJXokd-Y)
 
 ### 2. Logistic Regression
 - Binary Logistic Regression
