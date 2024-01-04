@@ -56,14 +56,17 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 ## Statistics 
 
 ### 1. Exploratory Data Analysis
-
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Exploratory Data Analysis In Python](https://www.youtube.com/watch?v=MoM6mighOJM)
 
 ### 2. Inferential Statistics
+ - <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Inferential Statistics](https://www.youtube.com/watch?v=adx4bFTVa3k)
 
 ### 3. Hypothesis Testing
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Hypothesis Testing in Data Science](https://www.youtube.com/watch?v=U5vt3_dfKys)
 
 ### 4. EDA Projects
-
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[EDA Projects](https://github.com/Suhas-Prabhu/Exploratory-Data-analysis?tab=readme-ov-file)
+- <img src="https://img.shields.io/badge/blog-yellow.svg" alt="118-pages" align="top">[EDA Projects- 40 examples](https://medium.com/@ebrahimhaqbhatti516/40-of-the-best-beginner-friendly-kaggle-notebooks-to-learn-exploratory-data-analysis-eda-6e45760646aa)
 ## Introduction to ML
 
 ### 1. Introduction to Machine Learning
