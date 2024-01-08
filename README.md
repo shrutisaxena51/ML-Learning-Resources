@@ -90,7 +90,7 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 - Feature Selection and Engineering
 - Model Selection and Training
 - Evaluation and Fine-Tuning
--  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Build Your First Machine Learning Project ](https://www.youtube.com/watch?v=Hr06nSA-qww)
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Build Your First Machine Learning Project](https://www.youtube.com/watch?v=Hr06nSA-qww)
 
 ---
 ## Data Preprocessing
@@ -111,8 +111,6 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 ### 3. Feature Engineering
 - <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Feature Construction](https://www.youtube.com/watch?v=ma-h30PoFms)
 - <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Feature Selection](https://www.youtube.com/watch?v=xlHk4okO8Ls&t=1s)
-- Dimensionality Reduction
-- Handling Categorical Data
 
 ### 4. Handling Missing Data
 - <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Complete Case Analysis](https://www.youtube.com/watch?v=aUnNWZorGmk)
