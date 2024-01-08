@@ -22,8 +22,7 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 |Statistics |[1. Exploratory Data Analysis](#1-exploratory-data-analysis)<br>[2. Inferential Statistics](#2-inferential-statistics)<br>[3. Hypothesis Testing](#3-hypothesis-testing)<br>[4. EDA Projects](#4-eda-projects)|
 | Introduction to ML 🌟           | [1. Introduction to Machine Learning](#1-introduction-to-machine-learning)<br>[2. Types of Machine Learning](#2-types-of-machine-learning)<br>[3. Applications of ML](#3-applications-of-ml)<br>[4. Machine Learning Process](#4-machine-learning-process) |
 | Data Preprocessing 📊           | [1. Data Collection and Cleaning](#1-data-collection-and-cleaning)<br>[2. Data Transformation](#2-data-transformation)<br>[3. Feature Engineering](#3-feature-engineering)<br>[4. Handling Missing Data](#4-handling-missing-data)<br>[5. Scaling and Normalization](#5-scaling-and-normalization) |
-| Supervised Learning 🧠          | [1. Linear Regression](#1-linear-regression)<br>[2. Logistic Regression](#2-logistic-regression)<br>[3. Decision Trees](#3-decision-trees)<br>[4. Support Vector Machines](#4-support-vector-machines)<br>[5. Ensemble Learning](#5-ensemble-learning) |
-| Unsupervised Learning 🧩        | [1. Clustering](#1-clustering)<br>[2. Principal Component Analysis (PCA)](#2-principal-component-analysis-pca)<br>[3. Anomaly Detection](#3-anomaly-detection) |
+| Machine Learning Algorithms🧠          | [Algorithms](#algorithms) |
 
 ## Data Science Tool Kit
 
@@ -91,7 +90,7 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 - Feature Selection and Engineering
 - Model Selection and Training
 - Evaluation and Fine-Tuning
--  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Build Your First Machine Learning Project ](https://www.youtube.com/watch?v=Hr06nSA-qww
+-  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Build Your First Machine Learning Project ](https://www.youtube.com/watch?v=Hr06nSA-qww)
 
 ---
 ## Data Preprocessing
@@ -110,8 +109,8 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 - <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Binning and One-Hot Encoding](https://www.youtube.com/watch?v=9yl6-HEY7_s&pp=ygUcQmlubmluZyBhbmQgT25lLUhvdCBFbmNvZGluZw%3D%3D)
 
 ### 3. Feature Engineering
-- Feature Extraction
-- Feature Selection
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Feature Construction](https://www.youtube.com/watch?v=ma-h30PoFms)
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Feature Selection](https://www.youtube.com/watch?v=xlHk4okO8Ls&t=1s)
 - Dimensionality Reduction
 - Handling Categorical Data
 
@@ -131,59 +130,28 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 - <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Data Cleaning](https://www.youtube.com/watch?v=kLDTbavcmd0)
 ---
 
-## Supervised Learning
-
-### 1. Linear Regression
--  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Simple Linear Regression](https://www.youtube.com/watch?v=aEPoLeS6UMM)
--  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Multiple inear Regression](https://www.youtube.com/watch?v=e_9vJXokd-Y)
-
-### 2. Logistic Regression
-- Binary Logistic Regression
-- Multinomial Logistic Regression
-- Evaluating Classification Models
-- Regularization Techniques
-
-### 3. Decision Trees
-- Building Decision Trees
-- Pruning and Overfitting
-- Random Forests
-- Feature Importance
-
-### 4. Support Vector Machines
-- Linear SVMs
-- Nonlinear SVMs
-- Kernels and Kernel Trick
-- SVM for Classification and Regression
-
-### 5. Ensemble Learning
-- Bagging and Boosting
-- AdaBoost
-- Gradient Boosting
-- XGBoost
-
+## Machine Learning Algorithms
+### algorithms
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Linear Regression](https://www.youtube.com/watch?v=UZPfbG0jNec&list=PLKnIA16_Rmva-wY_HBh1gTH32ocu2SoTr)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Gradient Descent](https://www.youtube.com/watch?v=ORyfPJypKuU&list=PLKnIA16_RmvZvBbJex7T84XYRmor3IPK1)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[ ogistic Regression](https://www.youtube.com/watch?v=XNXzVfItWGY&list=PLKnIA16_Rmvb-ZTsM1QS-tlwmlkeGSnru)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Support Vector Machines](https://www.youtube.com/watch?v=ugTxMLjLS8M&list=PLKnIA16_RmvbOIFee-ra7U6jR2oIbCZBL)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Naive Bayes](https://www.youtube.com/watch?v=Ty7knppVo9E&list=PLKnIA16_RmvZ67wQaHoBuzXaDAfPz-a6l)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[K Nearest Neighbors](https://www.youtube.com/watch?v=BYaoDZM1IcU&list=PLKnIA16_RmvZiE-lEdN5RDi18-u-T43zd)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[ Decision Trees](https://www.youtube.com/watch?v=gwgmSSTdiXs&list=PLKnIA16_RmvYGY_n9PP8zN-0LG9MoZRjU)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Random Forest](https://www.youtube.com/watch?v=bHK1fE_BUms&list=PLKnIA16_RmvZyqP3WGUo7iVziIIea_1bp)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Bagging](https://www.youtube.com/watch?v=LUiBOAy7x6Y&list=PLKnIA16_RmvZ7iKIcJrLjUoFDEeSejRpn)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Adaboost](https://www.youtube.com/watch?v=sFKnP0iP0K0&list=PLKnIA16_RmvZxriy68dPZhorB8LXP1PY6)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Gradient Boosting](https://www.youtube.com/watch?v=fbKz7N92mhQ&list=PLKnIA16_RmvaMPgWfHnN4MXl3qQ1597Jw)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Xgboost](https://www.youtube.com/watch?v=BTLB-ppqBZc&list=PLKnIA16_RmvbXJbBW4zCy4Xbr81GRyaC4)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Principle Component Analysis (PCA)](https://www.youtube.com/watch?v=ToGuhynu-No&list=PLKnIA16_RmvYHW62E_lGQa0EFsph2NquD)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[KMeans Clustering](https://www.youtube.com/watch?v=5shTLzwAdEc&list=PLKnIA16_RmvbA_hYXlRgdCg9bn8ZQK2z9)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Heirarchical Clustering](https://www.youtube.com/watch?v=Ka5i9TVUT-E)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[DBSCAN](https://www.youtube.com/watch?v=RDZUdRSDOok)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[T-sne](https://www.youtube.com/watch?v=NEaUSP4YerM)
+   
 ---
 
-## Unsupervised Learning
-
-### 1. Clustering
-- K-Means Clustering
-- Hierarchical Clustering
-- Density-Based Clustering
-- Evaluating Clustering
-
-### 2. Principal Component Analysis (PCA)
-- Dimensionality Reduction
-- Eigenvalues and Eigenvectors
-- Variance Explained Ratio
-- Applications of PCA
-
-### 3. Anomaly Detection
-- Types of Anomalies
-- Approaches to Anomaly Detection
-- Isolation Forest
-- One-Class SVM
-
----
 
 ## Books
 - <img src="https://img.shields.io/badge/Book-green.svg" alt="118-pages" align="top"> [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques for Building Intelligent Systems](https://amzn.to/3iLFiRm)- Aurélien Géron,  O'Reilly Media, Inc.", 2022.
