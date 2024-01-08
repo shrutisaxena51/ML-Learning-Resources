@@ -50,7 +50,7 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 
 ### 6. Data Analysis in Excel
 - <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Mastering Data Analysis in Excel](https://www.coursera.org/learn/analytics-excel)
-- https://www.geeksforgeeks.org/data-analysis-in-excel/)
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Data Analusis in excel](https://www.geeksforgeeks.org/data-analysis-in-excel/)
 ---
 
 ## Statistics 
@@ -83,6 +83,7 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 - Recommender Systems
 - Fraud Detection
 - Autonomous Vehicles
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Applications of Machine learning](https://www.simplilearn.com/tutorials/machine-learning-tutorial/machine-learning-applications)
 
 ### 4. Machine Learning Process
 - Data Collection and Cleaning
@@ -90,6 +91,7 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 - Feature Selection and Engineering
 - Model Selection and Training
 - Evaluation and Fine-Tuning
+-  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Build Your First Machine Learning Project ](https://www.youtube.com/watch?v=Hr06nSA-qww
 
 ---
 ## Data Preprocessing
@@ -114,14 +116,16 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 - Handling Categorical Data
 
 ### 4. Handling Missing Data
-- Imputation Techniques
-- Dealing with NaN Values
-- Removing Irrelevant Features
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Complete Case Analysis](https://www.youtube.com/watch?v=aUnNWZorGmk)
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Handling missing numerical data](https://www.youtube.com/watch?v=mCL2xLBDw8M)
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Handling missing categorical data](https://www.youtube.com/watch?v=l_Wip8bEDFQ)
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Missing indicator](https://www.youtube.com/watch?v=Ratcir3p03w)
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[KNN Imputer](https://www.youtube.com/watch?v=-fK-xEev2I8)
+- <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[MICE](https://www.youtube.com/watch?v=a38ehxv3kyk)
 
 ### 5. Scaling and Normalization
-- Min-Max Scaling
-- Z-Score Normalization
-- Robust Scaling
+ - <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Standarization](https://www.youtube.com/watch?v=1Yw9sC0PNwY)
+ - <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Normalization](https://www.youtube.com/watch?v=eBrGyuA2MIg)
 
 ### 6. projects
 - <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Data Cleaning](https://www.youtube.com/watch?v=kLDTbavcmd0)
