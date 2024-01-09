@@ -130,23 +130,23 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 
 ## Machine Learning Algorithms
 ### algorithms
- -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Linear Regression](https://www.youtube.com/watch?v=UZPfbG0jNec&list=PLKnIA16_Rmva-wY_HBh1gTH32ocu2SoTr)
- -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Gradient Descent](https://www.youtube.com/watch?v=ORyfPJypKuU&list=PLKnIA16_RmvZvBbJex7T84XYRmor3IPK1)
- -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[ ogistic Regression](https://www.youtube.com/watch?v=XNXzVfItWGY&list=PLKnIA16_Rmvb-ZTsM1QS-tlwmlkeGSnru)
- -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Support Vector Machines](https://www.youtube.com/watch?v=ugTxMLjLS8M&list=PLKnIA16_RmvbOIFee-ra7U6jR2oIbCZBL)
- -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Naive Bayes](https://www.youtube.com/watch?v=Ty7knppVo9E&list=PLKnIA16_RmvZ67wQaHoBuzXaDAfPz-a6l)
- -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[K Nearest Neighbors](https://www.youtube.com/watch?v=BYaoDZM1IcU&list=PLKnIA16_RmvZiE-lEdN5RDi18-u-T43zd)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[ Linear Regression](https://www.youtube.com/watch?v=UZPfbG0jNec&list=PLKnIA16_Rmva-wY_HBh1gTH32ocu2SoTr)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[ Gradient Descent](https://www.youtube.com/watch?v=ORyfPJypKuU&list=PLKnIA16_RmvZvBbJex7T84XYRmor3IPK1)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[ Logistic Regression](https://www.youtube.com/watch?v=XNXzVfItWGY&list=PLKnIA16_Rmvb-ZTsM1QS-tlwmlkeGSnru)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[ Support Vector Machines](https://www.youtube.com/watch?v=ugTxMLjLS8M&list=PLKnIA16_RmvbOIFee-ra7U6jR2oIbCZBL)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[ Naive Bayes](https://www.youtube.com/watch?v=Ty7knppVo9E&list=PLKnIA16_RmvZ67wQaHoBuzXaDAfPz-a6l)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[ K Nearest Neighbors](https://www.youtube.com/watch?v=BYaoDZM1IcU&list=PLKnIA16_RmvZiE-lEdN5RDi18-u-T43zd)
  -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[ Decision Trees](https://www.youtube.com/watch?v=gwgmSSTdiXs&list=PLKnIA16_RmvYGY_n9PP8zN-0LG9MoZRjU)
- -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Random Forest](https://www.youtube.com/watch?v=bHK1fE_BUms&list=PLKnIA16_RmvZyqP3WGUo7iVziIIea_1bp)
- -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Bagging](https://www.youtube.com/watch?v=LUiBOAy7x6Y&list=PLKnIA16_RmvZ7iKIcJrLjUoFDEeSejRpn)
- -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Adaboost](https://www.youtube.com/watch?v=sFKnP0iP0K0&list=PLKnIA16_RmvZxriy68dPZhorB8LXP1PY6)
- -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Gradient Boosting](https://www.youtube.com/watch?v=fbKz7N92mhQ&list=PLKnIA16_RmvaMPgWfHnN4MXl3qQ1597Jw)
- -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Xgboost](https://www.youtube.com/watch?v=BTLB-ppqBZc&list=PLKnIA16_RmvbXJbBW4zCy4Xbr81GRyaC4)
- -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Principle Component Analysis (PCA)](https://www.youtube.com/watch?v=ToGuhynu-No&list=PLKnIA16_RmvYHW62E_lGQa0EFsph2NquD)
- -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[KMeans Clustering](https://www.youtube.com/watch?v=5shTLzwAdEc&list=PLKnIA16_RmvbA_hYXlRgdCg9bn8ZQK2z9)
- -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[Heirarchical Clustering](https://www.youtube.com/watch?v=Ka5i9TVUT-E)
- -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[DBSCAN](https://www.youtube.com/watch?v=RDZUdRSDOok)
- -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[T-sne](https://www.youtube.com/watch?v=NEaUSP4YerM)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[ Random Forest](https://www.youtube.com/watch?v=bHK1fE_BUms&list=PLKnIA16_RmvZyqP3WGUo7iVziIIea_1bp)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[ Bagging](https://www.youtube.com/watch?v=LUiBOAy7x6Y&list=PLKnIA16_RmvZ7iKIcJrLjUoFDEeSejRpn)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[ Adaboost](https://www.youtube.com/watch?v=sFKnP0iP0K0&list=PLKnIA16_RmvZxriy68dPZhorB8LXP1PY6)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[ Gradient Boosting](https://www.youtube.com/watch?v=fbKz7N92mhQ&list=PLKnIA16_RmvaMPgWfHnN4MXl3qQ1597Jw)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[ Xgboost](https://www.youtube.com/watch?v=BTLB-ppqBZc&list=PLKnIA16_RmvbXJbBW4zCy4Xbr81GRyaC4)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[ Principle Component Analysis (PCA)](https://www.youtube.com/watch?v=ToGuhynu-No&list=PLKnIA16_RmvYHW62E_lGQa0EFsph2NquD)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[ KMeans Clustering](https://www.youtube.com/watch?v=5shTLzwAdEc&list=PLKnIA16_RmvbA_hYXlRgdCg9bn8ZQK2z9)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[ Heirarchical Clustering](https://www.youtube.com/watch?v=Ka5i9TVUT-E)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[ DBSCAN](https://www.youtube.com/watch?v=RDZUdRSDOok)
+ -  <img src="https://img.shields.io/badge/video-red.svg" alt="118-pages" align="top">[ T-sne](https://www.youtube.com/watch?v=NEaUSP4YerM)
    
 ---
 
@@ -219,7 +219,7 @@ A list of Learning resouces for machine learning and deep learning. It consists 
 - <img src="https://img.shields.io/badge/Youtube-red.svg" alt="118-pages" align="top"> [Machine Learning with Phil](https://www.youtube.com/c/MachineLearningwithPhil)
 
 ## How to Contribute
-send one of the [maintainers](MAINTAINERS) a [pull request](https://github.com/shrutisaxena51/Artificial-Intelligence-in-Compiler-Optimization/pulls).
+send one of the [maintainers](MAINTAINERS) a [pull request](https://github.com/shrutisaxena51/ML-Learning-Resources/pulls).
 
 
 
